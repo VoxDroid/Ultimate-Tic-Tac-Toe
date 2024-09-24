@@ -1,6 +1,6 @@
 # Ultimate Tic-Tac-Toe
 
-[English](README.md) | [中文](README_zh.md) | [日本語](README_jp.md) | [한국어](README_kr.md) | [Русский](README_ru.md) | [Español](README_es.md) | [Français](README_fr.md) | [Deutsch](README_de.md)
+[中文](README_zh.md) | [日本語](README_jp.md) | [한국어](README_kr.md) | [Русский](README_ru.md) | [Español](README_es.md) | [Français](README_fr.md) | [Deutsch](README_de.md)
 
 A multilingual, feature-rich Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 
