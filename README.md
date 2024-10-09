@@ -1,4 +1,7 @@
 # Ultimate Tic-Tac-Toe
+
+<img src="https://raw.githubusercontent.com/VoxDroid/Ultimate-Tic-Tac-Toe/refs/heads/main/assets/logo/UT.png" width="500" height="500">
+
 [中文](README/README_zh.md) | [日本語](README/README_jp.md) | [한국어](README/README_kr.md) | [Русский](README/README_ru.md) | [Español](README/README_es.md) | [Français](README/README_fr.md) | [Deutsch](README/README_de.md)
 
 A multilingual, feature-rich Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
